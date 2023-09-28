@@ -1,3 +1,3 @@
 # GdiExamples\swaprect
 
-Note: This build on GCC compiler. Other build by MSVC. Run the build.bat to build and run.
+No information available. You must manually understand it.
