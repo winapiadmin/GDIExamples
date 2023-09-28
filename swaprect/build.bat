@@ -1,2 +1,1 @@
-gcc -o swaprect.exe swaprect.cpp -L C:\MinGW\lib -l kernel32 -l  user32 -l  gdi32 -l  winspool -l  comdlg32 -l  advapi32 -l  shell32 -l  ole32 -l  oleaut32 -l  uuid -l  odbc32 -l  odbccp32 -lstdc++ -mwindows
-exit
+
